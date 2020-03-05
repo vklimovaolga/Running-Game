@@ -1,0 +1,60 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c60)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\PC\2º Ano\2º Semestre\Aplicações para Dispositivos Móveis\OlgaKlimova_21356_ADM_M\ADM\RUN_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\PC\2º Ano\2º Semestre\Aplicações para Dispositivos Móveis\OlgaKlimova_21356_ADM_M\ADM\RUN_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\PC\2º Ano\2º Semestre\Aplicações para Dispositivos Móveis\OlgaKlimova_21356_ADM_M\ADM\RUN_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\PC\2º Ano\2º Semestre\Aplicações para Dispositivos Móveis\OlgaKlimova_21356_ADM_M\ADM\RUN_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\PC\2º Ano\2º Semestre\Aplicações para Dispositivos Móveis\OlgaKlimova_21356_ADM_M\ADM\RUN_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\PC\2º Ano\2º Semestre\Aplicações para Dispositivos Móveis\OlgaKlimova_21356_ADM_M\ADM\RUN_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\PC\2º Ano\2º Semestre\Aplicações para Dispositivos Móveis\OlgaKlimova_21356_ADM_M\ADM\RUN_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\PC\2º Ano\2º Semestre\Aplicações para Dispositivos Móveis\OlgaKlimova_21356_ADM_M\ADM\RUN_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\PC\2º Ano\2º Semestre\Aplicações para Dispositivos Móveis\OlgaKlimova_21356_ADM_M\ADM\RUN_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\PC\2º Ano\2º Semestre\Aplicações para Dispositivos Móveis\OlgaKlimova_21356_ADM_M\ADM\RUN_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.173 seconds
+Platform assembly: F:\PC\2º Ano\2º Semestre\Aplicações para Dispositivos Móveis\OlgaKlimova_21356_ADM_M\ADM\RUN_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\PC\2º Ano\2º Semestre\Aplicações para Dispositivos Móveis\OlgaKlimova_21356_ADM_M\ADM\RUN_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.522300 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 22f4 -> priority: 1 
+  Thread -> id: ce8 -> priority: 1 
+  Thread -> id: 4adc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.486600 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1080.
+Total: 0.636500 ms (FindLiveObjects: 0.063500 ms CreateObjectMapping: 0.022500 ms MarkObjects: 0.416900 ms  DeleteObjects: 0.132400 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.760500 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1084.
+Total: 0.540200 ms (FindLiveObjects: 0.046500 ms CreateObjectMapping: 0.020900 ms MarkObjects: 0.407300 ms  DeleteObjects: 0.064900 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.474798 ms
+
+Unloading 267 unused Assets to reduce memory usage. Loaded Objects now: 1260.
+Total: 1.492700 ms (FindLiveObjects: 0.073600 ms CreateObjectMapping: 0.032900 ms MarkObjects: 0.377400 ms  DeleteObjects: 1.008100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.804300 ms
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 241.
+Total: 1.066300 ms (FindLiveObjects: 0.033400 ms CreateObjectMapping: 0.011100 ms MarkObjects: 0.166000 ms  DeleteObjects: 0.854700 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.468600 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 356.
+Total: 0.218700 ms (FindLiveObjects: 0.011400 ms CreateObjectMapping: 0.009400 ms MarkObjects: 0.184400 ms  DeleteObjects: 0.013000 ms)
+
