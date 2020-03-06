@@ -2,4 +2,4 @@
 
 Trabalho realizado para universidade em 2016.
 
-  - Objetos modelados e animados no Bldender.
+  - Objetos modelados e animados no Blender.
